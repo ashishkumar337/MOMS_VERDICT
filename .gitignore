@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.json.lock
+evals/eval_results.json
+data/sample_reviews/*.json
+*.egg-info/
+dist/
+build/
+.DS_Store
